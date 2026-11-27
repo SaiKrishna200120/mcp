@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Recruitment Copilot
 
 > An end-to-end **Agentic Hybrid RAG** system that combines **LLM + pgvector semantic search + Model Context Protocol (MCP)** to intelligently match candidates to job descriptions, manage an ATS pipeline, and provide an interactive AI recruiter chat — all powered by a React frontend, FastAPI backend, and Neon Cloud PostgreSQL.
