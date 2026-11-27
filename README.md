@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Recruitment Copilot
 
 > An end-to-end **Agentic Hybrid RAG** system that combines **LLM + pgvector semantic search + Model Context Protocol (MCP)** to intelligently match candidates to job descriptions, manage an ATS pipeline, and provide an interactive AI recruiter chat — all powered by a React frontend, FastAPI backend, and Neon Cloud PostgreSQL.
@@ -259,3 +260,17 @@ EMBEDDING_MODEL=qwen/qwen3-embedding-8b
 ## License
 
 This project is a capstone demonstration of Agentic AI, Hybrid RAG, and Model Context Protocol concepts. Built for educational purposes.
+=======
+# mcp
+mcp
+# HR Candidate Tracker — Model Context Protocol (MCP) Demo
+
+ **Model Context Protocol (MCP)**, **SQLite**, **OpenRouter**, and **Gradio**. 
+
+This project demonstrates how an LLM Host can dynamically discover and orchestrate tools across **two independent MCP servers**—a **custom Python FastMCP server** for structured database operations and a **built-in Filesystem MCP server** for reading local candidate resumes—through a natural-language chat interface.
+
+---
+
+
+
+>>>>>>> a62bcb4118a59f0fa2f8612c33ba17c49c9acb3a
